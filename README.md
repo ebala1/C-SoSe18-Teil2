@@ -6,7 +6,7 @@ Erfüllte Stufen:
 Stufe 1:
  
 - Funktionsfähige Start-,Stopp-,Speichern- und Laden-Buttons
-  - Start: Startet das Spiel
+  - Start: Startet das Spiel(Objekte bewegen sich)
   - Stopp: Stoppt das Spiel(Objekte bewegen sich nicht mehr)
   - Speicher: Spielstand wird gespeichert
   - Laden: Spielstand wird wieder hergestellt
@@ -17,11 +17,11 @@ Stufe 1:
 
 
 Stufe 2:
-- Unterschiedliche Obejekte(unterscheiden sich in Form & Geschwindigkeit)
+- Erstellung unterschiedlicher Obejekte(unterscheiden sich in Form & Geschwindigkeit)
 
 
 
-Aufgabe erfüllt mit Hilfe von
+Aufgabe erfüllt mit Hilfe von:
 - QT Dokumentation
 - Tutorials
 - Programierpraktikum
