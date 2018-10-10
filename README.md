@@ -13,7 +13,7 @@ Stufe 1:
 
 
 Stufe 2:
--Unterschiedliche Obejekte(unterscheiden sich in Form & Geschwindigkeit)
+- Unterschiedliche Obejekte(unterscheiden sich in Form & Geschwindigkeit)
 
 
 
